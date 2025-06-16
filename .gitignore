@@ -22,7 +22,7 @@ local_settings.py
 
 # Virtual environments
 venv/
-env/
+# env/
 ENV/
 .venv/
 

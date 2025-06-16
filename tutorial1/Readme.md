@@ -49,5 +49,6 @@
 
 1. Create a function that return a HTTP resonse in the views file 
 2. Create a urls.py in the app folder and create a **urlpatterns** list which contains the path("path",views.fn,name)
-3. now in the project main urls.py include the app urlpatterns 
-4. now you can see the http response in the browser
+3. Add the app config to the settings of the project 
+4. now in the project main urls.py include the app urlpatterns 
+5. now you can see the http response in the browser
